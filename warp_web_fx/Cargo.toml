@@ -12,4 +12,4 @@ path = "src/hello_world.rs"
 
 [dependencies]
 tokio = { version = "0.2", features = ["macros"] }
-warp = "0.2"
+warp = "0.3.3"
